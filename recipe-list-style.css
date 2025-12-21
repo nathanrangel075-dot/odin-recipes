@@ -1,0 +1,49 @@
+body{
+
+background-color: lightgray;
+
+
+}
+
+
+h1{
+    color: white;
+    background-color: blue;
+    width: 200px;
+    padding: 10px;
+    margin-left: 800px;
+    font-family:'Times New Roman', Times, serif;
+    border: 10px solid lightblue ;
+}
+
+.container{
+    color: white;
+    background-color: blue;
+    border: 10px solid lightblue;
+    width: 800px;
+    margin-left: 500px;
+    
+}
+
+
+.content{
+
+padding: 10px;
+
+}
+
+.recipe-list{
+
+    color: white;
+    background-color: gray;
+    border: 10px solid lightblue;
+    width: 300px;
+    margin-left: 750px;
+}
+
+.recipe-list{
+
+    
+
+}
+
